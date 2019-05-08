@@ -8,3 +8,5 @@ The main function is in the PicoPlaca class, called "consult" and receives 3 par
 An xml archive called Parameters.xml was used to load parameters like start and end hours, holidays and start date of "Pico y Placa". It was used due to the constant variation of holidays in Quito.
 
 Test was develop in JUnit.
+
+nbproject folder was included to be able to open it easily in netbeans
